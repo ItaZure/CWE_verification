@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 function show_usage() {
     echo '  Usage: ./cleancwe <cwe id>'

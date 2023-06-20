@@ -1,5 +1,18 @@
 {
     "files.associations": {
-        "proof_helper.h": "c"
+        "proof_helper.h": "c",
+        "unistd.h": "c",
+        "cwe_415.h": "c",
+        "stdio.h": "c",
+        "cwe_469.h": "c",
+        "socket.h": "c",
+        "types.h": "c",
+        "in.h": "c",
+        "netdb.h": "c",
+        "cwe_590.h": "c",
+        "cwe_606.h": "c",
+        "cwe_763.h": "c",
+        "string.h": "c",
+        "inet.h": "c"
     }
 }

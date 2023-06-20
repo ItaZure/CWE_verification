@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # this scripts can run cbmc on harness.
 # before starting you have to install cbmc and goto-cc.
